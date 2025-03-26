@@ -1,0 +1,52 @@
+# Maven build directories
+target/
+bin/
+build/
+dist/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+maven_output.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Temporary build directories
+tmp_check/
+tmp_check2/
+tmp_extract/
+temp_jar/
+classes/
+
+# Mac OS X files
+.DS_Store
