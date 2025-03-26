@@ -1,6 +1,6 @@
 # Pornhub Scraper Addon for tinyMediaManager
 
-This is a scraper addon for [TinyMediaManager (TMM)](https://www.tinymediamanager.org/) that provides metadata extraction from Pornhub.
+This is a scraper addon for [tinyMediaManager (TMM)](https://www.tinymediamanager.org/) that provides metadata extraction from Pornhub.
 
 ## Features
 
@@ -13,8 +13,8 @@ This is a scraper addon for [TinyMediaManager (TMM)](https://www.tinymediamanage
 ## Installation
 
 1. Download the latest release JAR file from the [Releases](https://github.com/JudeThomasZeng/pornhub-scraper/releases) page
-2. Place the JAR file in the `plugins` directory of your TinyMediaManager installation
-3. Restart TinyMediaManager
+2. Place the JAR file in the `plugins` directory of your tinyMediaManager installation
+3. Restart tinyMediaManager
 4. Enable the Pornhub scraper in TMM's settings
 
 ## Known Limitations
