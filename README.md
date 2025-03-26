@@ -1,4 +1,4 @@
-# Pornhub Scraper Addon for TinyMediaManager
+# Pornhub Scraper Addon for tinyMediaManager
 
 This is a scraper addon for [TinyMediaManager (TMM)](https://www.tinymediamanager.org/) that provides metadata extraction from Pornhub.
 
