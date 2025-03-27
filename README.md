@@ -32,7 +32,7 @@ For optimal matching, it's recommended to use filenames with the Pornhub video I
 My Video Title [ph123456].mp4
 ```
 
-Where `123456` is the Pornhub video ID from the URL (viewkey parameter).
+Where `ph123456` is the Pornhub video ID from the URL (viewkey parameter).
 
 ### Manual Search
 
